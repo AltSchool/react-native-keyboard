@@ -1,6 +1,6 @@
 {
   "name": "react-native-keyboard",
-  "version": "3.0.1",
+  "version": "3.0.2",
   "description": "",
   "main": "lib/index.js",
   "scripts": {},
@@ -9,7 +9,7 @@
   ],
   "readme": "# keyboard",
   "readmeFilename": "README.md",
-  "_from": "git+https://954ab0651f4020f104b1d55dc9c82f484415b259:x-oauth-basic@github.com/AltSchool/react-native-keyboard.git#v3.0.1",
+  "_from": "git+https://github.com/AltSchool/react-native-keyboard.git#v3.0.2",
   "dependencies": {
     "prop-types": "^15.6.0"
   }
