@@ -1,6 +1,6 @@
 {
   "name": "react-native-keyboard",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "",
   "main": "lib/index.js",
   "scripts": {},
@@ -20,7 +20,7 @@
   "gitHead": "e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
   "readme": "# keyboard",
   "readmeFilename": "README.md",
-  "_id": "react-native-keyboard@1.0.0",
+  "_id": "react-native-keyboard@3.0.0",
   "_shasum": "902d4878c1c66a2a8ef8075d674279ececd027a5",
   "_from": "git+https://github.com/beefe/react-native-keyboard.git",
   "_resolved": "git+https://github.com/beefe/react-native-keyboard.git#e79e1eace4d0dab225ea07e7c3d02a2b7fb80b07",
